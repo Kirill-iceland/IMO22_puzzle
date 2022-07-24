@@ -28,4 +28,5 @@ According to my program, there are 9 728 191 valid solutions that are listed [he
 ### All dates
 [Here](/all_dates.txt) is a list with one solution for each date.   
 
-[![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Jane_Street_Capital_Logo.svg)](https://www.janestreet.com/) [![](https://assets.swoogo.com/uploads/1572205-61fbd7c2726b0.svg)](https://www.imo2022.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Jane_Street_Capital_Logo.svg" width="50%"/>
+](https://www.janestreet.com/) [<img src="https://assets.swoogo.com/uploads/1572205-61fbd7c2726b0.svg" width="49%"/>](https://www.imo2022.org/)
