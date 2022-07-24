@@ -24,9 +24,9 @@ Example:
 
 ## Solutions
 ### All solutions
-According to my program, there are 9 728 191 valid solutions that are listed [here](/all_solutions.txt). **Warning:** This file uses [github lfs](https://git-lfs.github.com/), if the link does not work you cat try [https://github.com/Kirill-iceland/IMO22_puzzle/blob/master/all_solutions.txt](https://github.com/Kirill-iceland/IMO22_puzzle/blob/master/all_solutions.txt) and either download the file or view raw.
+According to my program, there are 9 728 191 valid solutions that are listed [here](/all_solutions.txt). **Warning:** This file uses [github lfs](https://git-lfs.github.com/), if the link does not work you cat try [https://github.com/Kirill-iceland/IMO22_puzzle/blob/master/all_solutions.txt](https://github.com/Kirill-iceland/IMO22_puzzle/blob/master/all_solutions.txt) and either download the file or view it raw.
 ### All dates
 [Here](/all_dates.txt) is a list with one solution for each date.   
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Jane_Street_Capital_Logo.svg" width="50%"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Jane_Street_Capital_Logo.svg" width="49%"/>
 ](https://www.janestreet.com/) [<img src="https://assets.swoogo.com/uploads/1572205-61fbd7c2726b0.svg" width="49%"/>](https://www.imo2022.org/)
